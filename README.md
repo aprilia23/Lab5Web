@@ -72,4 +72,11 @@
 
 ![image](https://user-images.githubusercontent.com/54062259/115489464-6e9c8180-a286-11eb-8177-938d20ef2976.png)
 
+<p>Tugas<p>
+<p>Buat script untuk melakukan validasi pada isian form<p>
+  
+![image](https://user-images.githubusercontent.com/54062259/115491401-1a939c00-a28a-11eb-98c4-07d8af003b0e.png)
+
+![image](https://user-images.githubusercontent.com/54062259/115491425-2a12e500-a28a-11eb-9a6b-74ffbb7f9b65.png)
+
 
