@@ -1,0 +1,42 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+   <title>Validasi Isian Form</title>
+</head>
+<body>
+   <h1>Validasi Isian Form</h1>
+   <form>
+      <fieldset>
+       <legend>Formulir Pendaftaran</legend>
+       Nama Lengkap:<br>
+         <input type="text" name="nama" required><br>
+       Alamat Email:<br>
+         <input type="email" name="email" required><br>
+       NIM :<br>
+         <input type="nim" name="nim" required><br>
+       Kelas:<br>
+         <input type="kelas" name="kelas" required><br>
+       Alasan Masuk Organisasi:<br>
+         <input type="alasan" name="alasan" required><br>
+     <br>
+         <input type="submit" value="Kirim">
+    </fieldset>
+    <style>
+     form p > label {
+     display: inline-block;
+     width: 100px;
+     }
+     form input[type="text"], form textarea {
+     border: 1px solid #197a43;
+     }
+     form input[type="submit"] {
+     border: 1px solid #197a43;
+     background-color: #197a43;
+     color: #ffffff;
+     font-weight: bold;
+     padding: 5px 15px;
+     }
+  </style>  
+   </form>
+</body>
+</html>
